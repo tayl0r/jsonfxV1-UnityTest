@@ -23,3 +23,5 @@ Here is the error:
     at JsonFx.Json.JsonReader.Deserialize (Int32 start, System.Type type) [0x00000] in <filename unknown>:0 
     at JsonFx.Json.JsonReader.Deserialize (System.String value, Int32 start, System.Type type) [0x00000] in <filename unknown>:0 
     at JsonFx.Json.JsonReader.Deserialize[TestDataStructAll] (System.String value) [0x00000] in <filename unknown>:0 
+
+edit: fixed the problem: http://forum.unity3d.com/threads/136720-Json.Net-iPhone-compatibility?p=1167580#post1167580
