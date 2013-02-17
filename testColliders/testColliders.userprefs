@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/litJsonTest.cs">
+    <Files>
+      <File FileName="../Documents/FoxCubGames/JackpotSlots/UnityProject/JackpotSlots/Assets/Code/DataPersister.cs" Line="5" Column="1" />
+      <File FileName="Assets/jsonfxTest.cs" Line="20" Column="25" />
+      <File FileName="Assets/litJsonTest.cs" Line="1" Column="9" />
+      <File FileName="../Downloads/litjson-0.5.0/test/JsonDataTest.cs" Line="1" Column="1" />
+      <File FileName="../Downloads/litjson-0.5.0/test/JsonWriterTest.cs" Line="32" Column="34" />
+      <File FileName="../Downloads/litjson-0.5.0/test/JsonReaderTest.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
