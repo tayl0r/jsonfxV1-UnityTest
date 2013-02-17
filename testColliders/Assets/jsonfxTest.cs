@@ -7,22 +7,37 @@ public class TestDataStructAll {
 	public uint _uint;
 	public float _float;
 	public string _string;
+	
+	public TestDataStructAll() {
+	}
 }
 
 public class TestDataStructUint {
 	public uint _uint;
+	
+	public TestDataStructUint() {
+	}
 }
 
 public class TestDataStructInt {
 	public int _int;
+	
+	public TestDataStructInt() {
+	}
 }
 
 public class TestDataStructFloat {
 	public float _float;
+	
+	public TestDataStructFloat() {
+	}
 }
 
 public class TestDataStructString {
 	public string _string;
+	
+	public TestDataStructString() {
+	}
 }
 
 public class jsonfxTest : MonoBehaviour {
@@ -71,6 +86,7 @@ public class jsonfxTest : MonoBehaviour {
 				_status = "success";
 			} catch (System.Exception e) {
 				_status = e.ToString();
+				Debug.Log(e.ToString());
 			}
 		}
 		
@@ -93,6 +109,7 @@ public class jsonfxTest : MonoBehaviour {
 				_status = "success";
 			} catch (System.Exception e) {
 				_status = e.ToString();
+				Debug.Log(e.ToString());
 			}
 		}
 
@@ -109,6 +126,7 @@ public class jsonfxTest : MonoBehaviour {
 				_status = "success";
 			} catch (System.Exception e) {
 				_status = e.ToString();
+				Debug.Log(e.ToString());
 			}
 		}
 		
@@ -125,6 +143,7 @@ public class jsonfxTest : MonoBehaviour {
 				_status = "success";
 			} catch (System.Exception e) {
 				_status = e.ToString();
+				Debug.Log(e.ToString());
 			}
 		}
 
@@ -141,6 +160,7 @@ public class jsonfxTest : MonoBehaviour {
 				_status = "success";
 			} catch (System.Exception e) {
 				_status = e.ToString();
+				Debug.Log(e.ToString());
 			}
 		}
 	
@@ -157,6 +177,7 @@ public class jsonfxTest : MonoBehaviour {
 				_status = "success";
 			} catch (System.Exception e) {
 				_status = e.ToString();
+				Debug.Log(e.ToString());
 			}
 		}
 
